@@ -9,3 +9,4 @@ Link to the book is here: https://nnfs.io/order.
 | Part | Section Link                                                                                           |
 |------|--------------------------------------------------------------------------------------------------------|
 | 1    | [Simple Linear Operations](https://github.com/jaceroldan/neural-network-from-scratch/tree/main/part_1) |
+| 2    | [Dense Layer with Activations](https://github.com/jaceroldan/neural-network-from-scratch/tree/main/part_2) |
